@@ -3,16 +3,49 @@
   "WorkspaceRootPath": "F:\\Projects\\XO DEPI\\XO_DEPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\xo_depi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\xo_depi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:XO_DEPI\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +55,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "XO_DEPI\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "XO_DEPI\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:52:28.32Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -34,20 +80,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAuwGACAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-26T22:50:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAuwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-26T22:24:40.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "XO_DEPI.csproj",
+              "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\XO_DEPI.csproj",
+              "RelativeDocumentMoniker": "XO_DEPI\\XO_DEPI.csproj",
+              "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\XO_DEPI.csproj",
+              "RelativeToolTip": "XO_DEPI\\XO_DEPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T22:22:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "XO_DEPI\\appsettings.Development.json",
+              "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\appsettings.Development.json",
+              "RelativeToolTip": "XO_DEPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T22:19:54.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUCAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-26T22:19:11.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "XO_DEPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "XO_DEPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T22:18:38.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:09:02.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\appsettings.json",
+              "RelativeDocumentMoniker": "XO_DEPI\\appsettings.json",
+              "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\appsettings.json",
+              "RelativeToolTip": "XO_DEPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T22:08:50.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Program.cs",
               "RelativeDocumentMoniker": "XO_DEPI\\Program.cs",
               "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Program.cs",
               "RelativeToolTip": "XO_DEPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T21:52:43.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T21:52:43.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "XO_DEPI\\Views\\Shared\\_Layout.cshtml",
@@ -59,13 +197,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "XO_DEPI\\Controllers\\HomeController.cs",
               "ToolTip": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "XO_DEPI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T18:28:12.161Z"
             }
