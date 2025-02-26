@@ -1,4 +1,4 @@
-namespace XO_DEPI.Models
+namespace XO_DEPI.Core.Models
 {
     public class ErrorViewModel
     {
