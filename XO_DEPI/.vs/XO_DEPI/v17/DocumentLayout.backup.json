@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "F:\\Projects\\XO DEPI\\XO_DEPI\\",
   "Documents": [
     {
@@ -12,6 +13,36 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|f:\\projects\\xo depi\\xo_depi\\xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\important\\XO_DEPI\\XO_DEPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\core\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\core\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\xo_depi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\xo_depi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> a9830522fcc522f268abc05741d3d7dfd63522ed
       "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +53,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> a9830522fcc522f268abc05741d3d7dfd63522ed
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +65,7 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
@@ -43,11 +79,53 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T21:52:43.655Z",
+=======
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XO_DEPI",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\XO_DEPI.csproj",
+              "RelativeDocumentMoniker": "XO_DEPI\\XO_DEPI.csproj",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\XO_DEPI.csproj",
+              "RelativeToolTip": "XO_DEPI\\XO_DEPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T22:39:35.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "XO_DEPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "XO_DEPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T22:26:43.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\appsettings.json",
+              "RelativeDocumentMoniker": "XO_DEPI\\appsettings.json",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\appsettings.json",
+              "RelativeToolTip": "XO_DEPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T20:56:41.916Z",
+>>>>>>> a9830522fcc522f268abc05741d3d7dfd63522ed
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\Projects\\XO DEPI\\XO_DEPI\\XO_DEPI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "XO_DEPI\\Views\\Shared\\_Layout.cshtml",
@@ -68,6 +146,56 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T18:28:12.161Z"
+=======
+              "Title": "Battle.cs",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Core\\Models\\Battle.cs",
+              "RelativeDocumentMoniker": "XO_DEPI\\Core\\Models\\Battle.cs",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Core\\Models\\Battle.cs",
+              "RelativeToolTip": "XO_DEPI\\Core\\Models\\Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:50:38.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "XO_DEPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:40:51.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Program.cs",
+              "RelativeDocumentMoniker": "XO_DEPI\\Program.cs",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Program.cs",
+              "RelativeToolTip": "XO_DEPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:04:10.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "XO_DEPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "XO_DEPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:04:05.402Z",
+              "EditorCaption": ""
+>>>>>>> a9830522fcc522f268abc05741d3d7dfd63522ed
             }
           ]
         }

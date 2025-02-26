@@ -1,10 +1,14 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "Hash": "qSzi9hxK+zRhcToT+Mfp58aGSPF10jyd+gg/CKS3Jg0=",
+=======
+<<<<<<< HEAD
   "Hash": "g50hfdeSVKuu84AALVuKYEbq+oSZiLTL+zFeTnUxRnk=",
 =======
   "Hash": "vk2sr68MBnKlS89unLifK4nac3wVwSvKZD7mphP9fD4=",
 >>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606
   "Source": "XO_DEPI",
   "BasePath": "_content/XO_DEPI",
   "Mode": "Default",
@@ -8875,10 +8879,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Wed, 26 Feb 2025 22:35:47 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 26 Feb 2025 20:04:18 GMT"
 =======
           "Value": "Wed, 26 Feb 2025 20:04:20 GMT"
 >>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606
         },
         {
           "Name": "Cache-Control",
@@ -8920,10 +8928,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Wed, 26 Feb 2025 22:35:47 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 26 Feb 2025 20:04:18 GMT"
 =======
           "Value": "Wed, 26 Feb 2025 20:04:20 GMT"
 >>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606
         },
         {
           "Name": "Cache-Control",
@@ -8973,10 +8985,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Wed, 26 Feb 2025 22:35:47 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 26 Feb 2025 20:04:18 GMT"
 =======
           "Value": "Wed, 26 Feb 2025 20:04:20 GMT"
 >>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606
         },
         {
           "Name": "Cache-Control",
@@ -9026,10 +9042,14 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+          "Value": "Wed, 26 Feb 2025 22:35:47 GMT"
+=======
+<<<<<<< HEAD
           "Value": "Wed, 26 Feb 2025 20:04:18 GMT"
 =======
           "Value": "Wed, 26 Feb 2025 20:04:20 GMT"
 >>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606
         },
         {
           "Name": "Cache-Control",
