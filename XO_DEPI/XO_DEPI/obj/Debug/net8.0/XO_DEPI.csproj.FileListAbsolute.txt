@@ -1,3 +1,40 @@
+<<<<<<< HEAD
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\appsettings.Development.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\appsettings.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.staticwebassets.runtime.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.staticwebassets.endpoints.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.exe
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.deps.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.runtimeconfig.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.dll
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.pdb
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.AssemblyInfoInputs.cache
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.AssemblyInfo.cs
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.csproj.CoreCompileInputs.cache
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.RazorAssemblyInfo.cache
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.RazorAssemblyInfo.cs
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.sourcelink.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\scopedcss\bundle\XO_DEPI.styles.css
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\scopedcss\projectbundle\XO_DEPI.bundle.scp.css
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets\msbuild.XO_DEPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets\msbuild.XO_DEPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets\msbuild.build.XO_DEPI.props
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.XO_DEPI.props
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.XO_DEPI.props
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.dll
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\refint\XO_DEPI.dll
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.pdb
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.genruntimeconfig.cache
+F:\Projects\XO DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\ref\XO_DEPI.dll
+=======
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\appsettings.Development.json
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\appsettings.json
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\XO_DEPI.staticwebassets.runtime.json
@@ -46,6 +83,7 @@ D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\Microsoft.Extensions.Primi
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.csproj.AssemblyReference.cache
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\obj\Debug\net8.0\XO_DEPI.csproj.Up2Date
+<<<<<<< HEAD
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\Azure.Core.dll
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\Azure.Identity.dll
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -171,3 +209,6 @@ D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\important\XO_DEPI\XO_DEPI\XO_DEPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+=======
+>>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606

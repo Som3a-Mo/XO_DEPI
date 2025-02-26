@@ -7,6 +7,11 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "XO_DEPI/1.0.0": {
+<<<<<<< HEAD
+        "runtime": {
+          "XO_DEPI.dll": {}
+        }
+=======
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
@@ -843,6 +848,7 @@
             "fileVersion": "9.0.225.6610"
           }
         }
+<<<<<<< HEAD
       },
       "System.Drawing.Common/6.0.0": {
         "dependencies": {
@@ -1037,6 +1043,9 @@
             "fileVersion": "6.0.21.52210"
           }
         }
+=======
+>>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606
       }
     }
   },
@@ -1045,6 +1054,8 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
+=======
     },
     "Azure.Core/1.38.0": {
       "type": "package",
@@ -1437,6 +1448,7 @@
       "sha512": "sha512-z5CMQNLzk8UKnTEHRKb4nq03CCDWBMEF2gfP3oPKZn4F8wip6LFZCP5rF90DREHqdNddScIGAfszXJSjh4drSw==",
       "path": "system.diagnostics.diagnosticsource/9.0.2",
       "hashPath": "system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512"
+<<<<<<< HEAD
     },
     "System.Drawing.Common/6.0.0": {
       "type": "package",
@@ -1598,6 +1610,9 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+=======
+>>>>>>> 6364ae2b6ce4cd81836c81a61715430355c92a03
+>>>>>>> 186d59e2ba00fd8d7a6ebf408505a80435cfd606
     }
   }
 }
