@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\important\\XO_DEPI\\XO_DEPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\migrations\\20250226223249_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\migrations\\20250226223249_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\core\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\core\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|d:\\important\\xo_depi\\xo_depi\\xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD3028D8-60E7-4AFD-B3ED-7AEA2E0A3E8C}|XO_DEPI\\XO_DEPI.csproj|solutionrelative:xo_depi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +50,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250226223249_init.cs",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Migrations\\20250226223249_init.cs",
+              "RelativeDocumentMoniker": "XO_DEPI\\Migrations\\20250226223249_init.cs",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Migrations\\20250226223249_init.cs",
+              "RelativeToolTip": "XO_DEPI\\Migrations\\20250226223249_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:32:49.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "XO_DEPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "XO_DEPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T22:26:43.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\appsettings.json",
               "RelativeDocumentMoniker": "XO_DEPI\\appsettings.json",
@@ -50,8 +83,7 @@
               "RelativeToolTip": "XO_DEPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-26T20:56:41.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:56:41.916Z"
             },
             {
               "$type": "Document",
@@ -61,27 +93,25 @@
               "RelativeDocumentMoniker": "XO_DEPI\\Core\\Models\\Battle.cs",
               "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Core\\Models\\Battle.cs",
               "RelativeToolTip": "XO_DEPI\\Core\\Models\\Battle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T20:50:38.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:50:38.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "XO_DEPI\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "XO_DEPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T20:40:51.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:40:51.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Program.cs",
               "RelativeDocumentMoniker": "XO_DEPI\\Program.cs",
@@ -89,8 +119,7 @@
               "RelativeToolTip": "XO_DEPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T20:04:10.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:04:10.903Z"
             },
             {
               "$type": "Document",
@@ -100,10 +129,9 @@
               "RelativeDocumentMoniker": "XO_DEPI\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\important\\XO_DEPI\\XO_DEPI\\XO_DEPI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "XO_DEPI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T20:04:05.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:04:05.402Z"
             }
           ]
         }
